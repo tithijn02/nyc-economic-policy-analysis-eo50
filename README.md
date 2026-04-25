@@ -37,11 +37,11 @@ This enables:
 
 ## 🛠️ How it was done
 
-The analysis combines three datasets: EO50 certification data, NYC borough geospatial boundaries, and socio-economic indicators such as employment, income, and poverty levels :contentReference[oaicite:0]{index=0}.
+The analysis combines three datasets: EO50 certification data, NYC borough geospatial boundaries, and socio-economic indicators such as employment, income, and poverty levels.
 
-A geospatial visualization was used to map certificate distribution across boroughs, revealing that areas with higher employment rates tend to have higher certification density, while regions with higher poverty rates show lower participation (as seen in the spatial plot on page 3) :contentReference[oaicite:1]{index=1}.
+A geospatial visualization was used to map certificate distribution across boroughs, revealing that areas with higher employment rates tend to have higher certification density, while regions with higher poverty rates show lower participation (as seen in the spatial plot on page 3).
 
-A temporal analysis further examined how certification trends evolved between 2021 and 2024, highlighting a significant spike in 2022 followed by a decline, suggesting challenges in sustaining compliance over time (page 4) :contentReference[oaicite:2]{index=2}.
+A temporal analysis further examined how certification trends evolved between 2021 and 2024, highlighting a significant spike in 2022 followed by a decline, suggesting challenges in sustaining compliance over time (page 4).
 
 These insights were combined to develop policy recommendations focused on improving outreach, resource allocation, and long-term sustainability.
 
